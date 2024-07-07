@@ -1,5 +1,6 @@
 **Spotify Dashboard**
-*Spotify: A Modern Music Streaming Powerhouse*
+
+**Spotify: A Modern Music Streaming Powerhouse**
 
 Spotify is a digital music streaming service offering access to over 82 million songs, podcasts, and audiobooks. Developed by Daniel Ek and Martin Lorentzon in 2006, the app has become a household name, boasting over 457 million subscribers as of 2022. Competing with SoundCloud and Apple Music, Spotify has transformed how people listen to music.
 
